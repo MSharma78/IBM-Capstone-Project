@@ -7,7 +7,6 @@ The objective was to collect, clean, analyze, and visualize real-world developer
 
 The project demonstrates practical data analysis skills including **data collection, data wrangling, exploratory data analysis, data visualization, and dashboard development**.
 
----
 
 ## Project Objectives
 
@@ -16,7 +15,6 @@ The project demonstrates practical data analysis skills including **data collect
 * Explore **developer demographics such as age, education, and geographic distribution**
 * Present insights using **interactive dashboards and visualizations**
 
----
 
 ## Dataset
 
@@ -29,7 +27,6 @@ The dataset includes information about:
 * Developer demographics
 * Desired technologies for future work
 
----
 
 ## Project Workflow
 
